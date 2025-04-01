@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "coin2P.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

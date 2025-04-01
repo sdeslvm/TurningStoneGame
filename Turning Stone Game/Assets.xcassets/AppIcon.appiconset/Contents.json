@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Снимок экрана 2025-03-24 в 10.30.20-3.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "page2Off.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
